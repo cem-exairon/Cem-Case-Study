@@ -1,0 +1,12 @@
+
+body {
+    background: #1B1D23 !important;
+}
+
+text {
+    fill: #565D69;
+}
+
+.chartContainer {
+    width: 50%;
+}

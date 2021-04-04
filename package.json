@@ -1,0 +1,24 @@
+{
+  "name": "btcusdchart",
+  "version": "1.0.0",
+  "description": "btcusdchart",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Cem Bugey",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.18.3",
+    "chartjs-plugin-zoom": "^0.7.7",
+    "express": "^4.16.3",
+    "mongoose": "^5.12.3",
+    "pug": "^3.0.2"
+  }
+}
