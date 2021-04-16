@@ -39,7 +39,7 @@ const myChart = new Chart(ctx, {
       scales: {
         y: {
           min: 55000,
-          max: 60000,
+          max: 65000,
           gridLines: {
             color: 'rgba(255,255,255,1)',
             lineWidth: 0.5
